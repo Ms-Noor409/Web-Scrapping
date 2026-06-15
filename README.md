@@ -35,7 +35,7 @@ The scraper extracts:
 1. Clone the repository:
 
 bash
-git clone https://github.com/your-username/rozee-job-analysis.git
+git clone https://github.com/Ms-Noor409/Web-Scrapping.git
 
 
 2. Install required libraries:
